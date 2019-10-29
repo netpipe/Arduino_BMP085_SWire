@@ -1,5 +1,5 @@
 #include <SWire.h>
-#include <Adafruit_BMP085.h>
+#include <Adafruit_BMP085-swire.h>
 
 /*************************************************** 
   This is an example for the BMP085 Barometric Pressure & Temp Sensor
